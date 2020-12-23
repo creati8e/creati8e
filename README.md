@@ -14,4 +14,4 @@ I have my own app on Play Store: [AutoTagger](https://play.google.com/store/apps
 
 📫 How to reach me: [email](gregamer@gmail.com), [instagram](https://www.instagram.com/serg_chuprin/)
 
-[![creati8e's github stats](https://github-readme-stats.vercel.app/api?username=creati8e&show_icons=true&count_private=true&hide_rank=true&hide_border=truehide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![creati8e's github stats](https://github-readme-stats.vercel.app/api?username=creati8e&show_icons=true&count_private=true&hide_rank=true&hide_border=truehide_title=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
