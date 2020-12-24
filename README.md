@@ -5,10 +5,6 @@ I have my own app on Play Store: [AutoTagger](https://play.google.com/store/apps
 * Beautiful UI and smooth animations
 * Complex data streams and business logic
 * Building architecture
-##### What i hate:
-* Android's system API
-* Views customizing
-* Clunky UI
 
 🎮 I’m currently playing with: [Finances](https://github.com/creati8e/Finances)
 
